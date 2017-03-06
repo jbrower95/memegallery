@@ -1,0 +1,69 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+.meme {
+	position: relative;
+}
+
+.meme_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.section p {
+	position: absolute;
+	font-size: 50px;
+	z-index: 10;
+}
+
+.section marquee {
+	position: absolute;
+	font-size: 50px;
+	z-index: 10;
+}
+
+#caption1 {
+	left: 250px;
+	top: 100px;
+	font-family: "Lemonada";
+}
+
+#caption2 {
+	left: 430px;
+	top: 20px;
+	font-family: "Lobster";
+}
+
+#caption3 {
+	left: 680px;
+	top: 450px;
+	font-family: "Lobster";
+	color: white;
+}
+
+#caption4 {
+	width: 100%;
+	left: 100px;
+	top: 100px;
+	color: white;
+}
+
+#caption5 {
+	width: 100%;
+	height: 100%;
+	color: red;
+}
+
+#caption6 {
+	width: 100%;
+	height: 100%;
+	left: 200px;
+	top: 400px;
+}
+
+
